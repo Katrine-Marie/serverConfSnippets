@@ -1,0 +1,3 @@
+# Sets up custom error pages for 4xx and 5xx errors
+ErrorDocument 403 /custom-403.html
+ErrorDocument 404 /custom-404.html
